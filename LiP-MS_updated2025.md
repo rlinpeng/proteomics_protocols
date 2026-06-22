@@ -30,9 +30,13 @@
 * thermal mixers that can hold pcr strips
 * speedvac that can hold plates
 
+### Native Cell Lysis with Bead-beater
+* Make Native Lysis Buffer (100 mM HEPES pH 7.5, 150 mM KCl, 1 mM MgCl2)
 
-### Native Cell Lysis
-* Resuspend bacterial pellets in a small amount of cold lysis buffer (such as 200uL) and transfer to a tube appropriate for bead beatin
+
+### Native Cell Lysis with Bead-beater
+* Make a 1:1 bead solution with beads and lysis buffer
+* Resuspend bacterial pellets in a small amount of cold lysis buffer (such as 200uL) and transfer to a tube appropriate for bead beating
 * Add beads in approx 1:1 volume ratio
 * Grind cells in bead beater. For E.coli, 2 rounds 30x speed 20 is good. Lysates should get foamy. Keep cold/on ice between pulses.
 * Centrifuge at high speed 5min 4C to get rid of cell debris and beads; decant cleanly avoiding foam. 
