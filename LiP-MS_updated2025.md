@@ -207,10 +207,10 @@
 * Estimated time needed for C18 cleanup: 1.5-2.5hr before speedvac drying, depending on sample number and centrifuge/elution times.
   * Calculate and prepare Buffer A/Buffer B: 10-20min.
   * Set up plates, reservoirs, and samples: 10-15min.
-  * Methanol conditioning washes: 10-15min.
-  * Buffer B conditioning washes: 10-15min.
-  * Buffer A equilibration washes: 15-25min.
+  * Methanol washes: 10-15min.
+  * Buffer B washes: 10-15min.
+  * Buffer A washes: 15-25min.
   * Load and pass samples through C18 plate: 10-30min, depending on sample viscosity and centrifuge settings.
-  * Buffer A post-sample washes: 20-35min.
+  * Buffer A washes: 20-35min.
   * Buffer B elution into clean plate: 15-25min.
   * Speedvac to dryness: variable, often 1-3hr or longer depending on volume and instrument.
