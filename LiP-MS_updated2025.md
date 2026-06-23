@@ -5,18 +5,18 @@
 ### Materials
 * Native lysis buffer - ice cold (100 mM HEPES pH 7.5, 150 mM KCl, 1 mM MgCl2)
 * Acid washed <106um glass beads, resuspended
-* Proteinase kinase 1ug/uL stocks (from freezer stocks; dilute in 25mM ambic)
+* Proteinase Kinase 1ug/uL stocks (from freezer stocks; dilute in 25mM ambic)
 * Positive control solution - usually prepared in 100 mM HEPES pH 7.5
 * Negative control solutions
-* 10% DOC solution made in 25mM ammonium bicarbonate
+* 10% Sodium Deoxycholate (DOC) solution made in 25mM ammonium bicarbonate
   * 10% w/v DOC = 0.1g sodium deoxycholate in 1mL 25mM ammonium bicarbonate.
-* ambic 25mM
-  * 25mM ammonium bicarbonate = 0.1977g in 100mL water.
-  * 100mM ammonium bicarbonate = 0.7906g in 100mL water.
-* 200mM DTT (30.85mg DTT in 1mL ammonium bicarbonate) - make day of use
+* Ammonium bicarbonate
+  * 25mM ammonium bicarbonate = 0.1977g in 100mL LC-grade water.
+  * 100mM ammonium bicarbonate = 0.7906g in 100mL LC-grade water.
+* 200mM Dithiothreitol(DTT) (30.85mg DTT in 1mL ammonium bicarbonate) - make day of use
   * Note: 15.4mg DTT in 1mL makes approximately 100mM DTT, not 200mM.
 * 1M iodoacetamide (IAA/IODA; 184.96mg IAA in 1mL ambic) - make day of use and protect from light
-* 0.1ug/uL trypsin/LysC mix - make day of use and keep on ice
+* 0.1ug/uL Trypsin/LysC mix - make day of use and keep on ice
 * 50% formic acid LC grade
 * 0.2um filter plates
 * C18 plates
