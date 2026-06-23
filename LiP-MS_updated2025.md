@@ -1,6 +1,6 @@
 # LiP-MS Protocol
 ### For bacterial pellets
-### Developed in the Picotti lab by Ludovic Gillett, modified here by Noelle Held
+### Developed in the Picotti lab by Ludovic Gillett, modified here by Noelle Held, and then by Rachael Peng 
 
 ### Materials
 * Native lysis buffer - ice cold (100 mM HEPES pH 7.5, 150 mM KCl, 1 mM MgCl2)
